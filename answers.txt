@@ -23,3 +23,11 @@ Answer: Merging branches preserves the branch edit history and creates a merge c
 		Merging is better when collaborating with others, as changes by people can be tracked, and 
 		rebasing could copy and change other people's history, leading to confusion.
 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to the Pandas and SQL languages and syntax that I'm going to learn in this class,
+		because I'm don't have too much experience with that, and it will be super helpful for any
+		data science I'll have to do in the future.
+
+
