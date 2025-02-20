@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: The Machine Learning Industry has huge use for data science, because a lot of the field involves
+		feeding huge amounts of data to a machine learning model in order for it to learn patterns
+		from that data.
