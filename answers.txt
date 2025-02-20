@@ -12,3 +12,14 @@ Answer: The Machine Learning Industry has huge use for data science, because a l
 		from that data.
 
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging branches preserves the branch edit history and creates a merge commit. Looking at the merge
+		history you can see exactly what changes were done on what branches, and that history stays
+		intact. Meanwhile rebasing copies over all the history in one branch to another, creating a
+		more linear work history without messier merge commits.
+
+		Merging is better when collaborating with others, as changes by people can be tracked, and 
+		rebasing could copy and change other people's history, leading to confusion.
+
